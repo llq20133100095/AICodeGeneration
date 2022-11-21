@@ -1,3 +1,5 @@
+
+
 在之前我写过自动生成代码的工具Copilot，它是由Github根据大量的仓库代码进行预训练生成的。如果感兴趣可以具体看回我之前写过的文章。里面由包括安装、使用方法等。
 
 ![Copilot安装教程](https://cdn.nlark.com/yuque/0/2022/png/29330410/1669040108848-b0a1e755-072e-421a-b650-a845441e7e33.png)
@@ -6,6 +8,27 @@
 由于Copilot已经需要收费，**因此为了找到更加合理（~~免费好用~~）的生成代码工具，帮助我把重复枯燥的代码进行补全**。最近又使用了几个类似的工具，下面是我根据这些工具的一些使用体验。
 
 （PS：更多详细的内容，可以查看这个github网页：https://github.com/llq20133100095/AICodeGeneration）
+
+
+- [1.可使用的AI生成代码工具](#1可使用的ai生成代码工具)
+- [2.使用教程](#2使用教程)
+  - [2.1 Copilot](#21-copilot)
+  - [2.2 Tabnine](#22-tabnine)
+  - [2.3 Mutable AI](#23-mutable-ai)
+  - [2.3 Cheat.sh](#23-cheatsh)
+  - [2.4 CodeGeeX](#24-codegeex)
+  - [2.5 CodeWhisperer](#25-codewhisperer)
+- [3.网友评价](#3网友评价)
+- [4.综合打分](#4综合打分)
+- [5.新闻资料（持续更新）](#5新闻资料持续更新)
+  - [5.1 Copilot](#51-copilot)
+  - [5.2 tabnine](#52-tabnine)
+  - [5.3 Mutable AI](#53-mutable-ai)
+  - [5.4 CodeGeeX](#54-codegeex)
+  - [5.5 CodeWhisperer](#55-codewhisperer)
+  - [5.6 PanGu-Coder](#56-pangu-coder)
+- [6. 群聊](#6-群聊)
+
 
 # 1.可使用的AI生成代码工具
 

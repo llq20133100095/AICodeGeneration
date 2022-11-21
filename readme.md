@@ -276,4 +276,3 @@ tabnine分为免费版本和收费版本
 **微信群：可以加入群中进行软件交流**
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/29330410/1668915455024-4548ff35-322b-4be5-b743-40e1e636b08c.png#averageHue=%23bcbcbc&clientId=uae15ba49-5f8a-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=704&id=u97c68353&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1319&originWidth=1000&originalType=binary&ratio=1&rotation=0&showTitle=false&size=177197&status=done&style=none&taskId=u6fe32b2e-9d91-4ac3-b4c5-902018e2df0&title=&width=533.6666870117188)
 
-也可以添加我的微信号**llqvigorous**拉你入群
